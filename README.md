@@ -6,7 +6,7 @@ GOE메신저가 종료된 뒤에도 내 기록을 계속 보관하고 찾아볼 
 
 made by [문수네집](https://moonsunezip.com) · [Instagram](https://www.instagram.com/moonsune.zip/)
 
-> 이 저장소에는 **Brity 탭에서 보기**가 들어간 새 버전(1.3)을 올려 두었습니다.
+> 이 저장소에는 **Brity 탭에서 보기**가 들어간 새 버전(1.3.1)을 올려 두었습니다.
 > Brity 탭 기능은 실제 Brity 환경에서 확인하는 중입니다. 이전 버전(1.2)은 [goe-viewer](https://github.com/moonsugugu/goe-viewer)에 있습니다.
 
 ## 내려받기
